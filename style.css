@@ -6,4 +6,9 @@
 
 body{
     background-color: hsl(0, 0%, 95%);
+    font-size: 15px;
+}
+
+p{
+    /* color: hsla(0, 0%, 100%, 0.75) */
 }
