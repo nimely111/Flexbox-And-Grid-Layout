@@ -9,7 +9,7 @@ body{
     font-size: 15px;
 }
 
-p{
+p, h2{
     color: hsla(0, 0%, 100%, 0.75)
 }
 
@@ -38,4 +38,9 @@ main{
 #very-dark-cyan{
     background-color:hsl(179, 100%, 13%);
     padding: 20px 15px;
+}
+
+.btn{
+    padding: 10px;
+    margin-top: 10px;
 }
