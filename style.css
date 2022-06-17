@@ -43,4 +43,6 @@ main{
 .btn{
     padding: 10px;
     margin-top: 10px;
+    border: none;
+    border-radius: 50px;
 }
