@@ -26,24 +26,21 @@ main{
 
 #bright-orange{
     background-color: hsl(31, 77%, 52%);
-    padding: 20px 15px;
 }
 
 
 #dark-cyan{
     background-color: hsl(184, 100%, 22%);
-    padding: 20px 15px;
 }
 
 #very-dark-cyan{
     background-color:hsl(179, 100%, 13%);
-    padding: 20px 15px;
 }
 
 .btn{
     background: transparent;
     padding: 10px;
-    margin-top: 10px;
+    margin: 10px;
     border: none;
     border-radius: 50px;
     color: #fff;
