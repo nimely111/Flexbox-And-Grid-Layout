@@ -26,13 +26,16 @@ main{
 
 #bright-orange{
     background-color: hsl(31, 77%, 52%);
+    padding: 20px 15px;
 }
 
 
 #dark-cyan{
     background-color: hsl(184, 100%, 22%);
+    padding: 20px 15px;
 }
 
 #very-dark-cyan{
-    background-color:hsl(179, 100%, 13%)
+    background-color:hsl(179, 100%, 13%);
+    padding: 20px 15px;
 }
