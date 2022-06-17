@@ -12,3 +12,9 @@ body{
 p{
     color: hsla(0, 0%, 100%, 0.75)
 }
+
+main{
+    margin: auto;
+    width: 50%;
+    display: flex;
+}
