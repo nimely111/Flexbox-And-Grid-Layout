@@ -31,6 +31,10 @@ main{
     padding: 10px 15px;
 }
 
+.flex-items img{
+    width: 39px;
+}
+
 
 #bright-orange{
     background-color: hsl(31, 77%, 52%);
