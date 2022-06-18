@@ -101,12 +101,26 @@ main{
 #grid-container{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-}
-
-#grid-container div{
-    background-color:blue;
-    height: 100px;
-    width: 100px;
-    border: 1px solid blue;
 
 }
+
+.grid1{
+
+}
+
+.grid2{
+    
+}
+
+.grid3{
+    
+}
+
+.grid4{
+    
+}
+
+.grid5{
+    
+}
+
