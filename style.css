@@ -26,6 +26,7 @@ main{
     align-items: center;
     justify-content: center;
     height: 100vh;
+    flex-wrap: wrap;
 }
 
 .flex-items{
@@ -101,7 +102,8 @@ main{
 #grid-container{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    width: 100vw;
+    grid-auto-rows: minmax(100px, auto);
+    /* width: 100vw; */
     grid-gap: 1em;
 }
 
