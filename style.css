@@ -44,12 +44,11 @@ main{
 }
 
 .btn{
-    background: transparent;
+    background: #fff;
     padding: 10px;
     margin: 10px;
     border: none;
     border-radius: 50px;
-    color: #fff;
 }
 
 .btn:hover{
