@@ -60,12 +60,6 @@ main{
     border-radius: 50px;
 }
 
-/* .btn:hover{
-    background: transparent;
-    border: 1px solid #fff;
-    cursor: pointer;
-} */
-
 #bright-orange .btn:hover{
     background: transparent;
     color: #fff;
