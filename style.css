@@ -100,27 +100,19 @@ main{
 /* grid styling */
 #grid-container{
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
-
+    grid-template-columns: repeat(3, 1fr);
+    width: 100vw;
+    grid-gap: 1em;
 }
 
-.grid1{
-
+#grid-container div{
+    padding: 1em;
 }
 
-.grid2{
-    
-}
+.grid1{background:LightSkyBlue;}
+.grid2{background:LightSalmon;}
+.grid3{background:PaleTurquoise;}
+.grid4{background:LightPink;}
+.grid5{background: PaleGreen;}
 
-.grid3{
-    
-}
-
-.grid4{
-    
-}
-
-.grid5{
-    
-}
 
