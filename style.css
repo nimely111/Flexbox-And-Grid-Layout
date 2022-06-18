@@ -28,7 +28,8 @@ main{
 
 .flex-items{
     height: 18rem;
-    padding: 10px 15px;
+    width: 200px;
+    padding: 10px 10px;
 }
 
 .flex-items img{
