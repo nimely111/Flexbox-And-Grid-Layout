@@ -9,6 +9,10 @@ body{
     font-size: 15px;
 }
 
+h2{
+    color: hsla(0, 0%, 100%, 0.75)
+}
+
 p, h2{
     color: hsla(0, 0%, 100%, 0.75)
 }
