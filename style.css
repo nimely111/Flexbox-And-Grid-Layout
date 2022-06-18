@@ -29,17 +29,25 @@ main{
 
 #bright-orange{
     background-color: hsl(31, 77%, 52%);
-    color: hsl(31, 77%, 52%);
 }
 
 
 #dark-cyan{
     background-color: hsl(184, 100%, 22%);
-    color: hsl(184, 100%, 22%);
 }
 
 #very-dark-cyan{
     background-color:hsl(179, 100%, 13%);
+}
+
+#bright-orange .btn{
+    color: hsl(31, 77%, 52%);
+}
+
+#dark-cyan .btn{
+    color: hsl(184, 100%, 22%);
+}
+#very-dark-cyan .btn{
     color: hsl(179, 100%, 13%);
 }
 
