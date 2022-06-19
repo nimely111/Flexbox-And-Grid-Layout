@@ -11,6 +11,11 @@ body{
     font-weight: 400px;
 }
 
+header{
+    background: #206970;
+    height: 70px;
+}
+
 h2{
     color: hsla(0, 0%, 100%, 0.75);
 }
