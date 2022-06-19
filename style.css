@@ -116,10 +116,10 @@ main{
     height: 200px;
 }
 
-.grid1{background:LightSkyBlue;}
-.grid2{background:LightSalmon;}
-.grid3{background:PaleTurquoise;}
-.grid4{background:LightPink;}
-.grid5{background: PaleGreen;}
+.grid-items1{background:LightSkyBlue;}
+.grid-item2{background:LightSalmon;}
+.grid-items3{background:PaleTurquoise;}
+.grid-items4{background:LightPink;}
+.grid-items5{background: PaleGreen;}
 
 
