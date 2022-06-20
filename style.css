@@ -122,6 +122,9 @@ main{
     grid-auto-rows: minmax(100px, auto);
     gap: 1em;
     background: #206970;
+    justify-items: stretch;
+    align-items: stretch;
+
     width: 75%;
     margin:  auto;
 }
