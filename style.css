@@ -136,7 +136,8 @@ main{
 
 .grid-items1{
     background:LightSkyBlue;
-
+    grid-column: 1/3;
+    grid-row: 1/3;
 }
 .grid-items2{background:LightSalmon;}
 .grid-items3{background:PaleTurquoise;}
