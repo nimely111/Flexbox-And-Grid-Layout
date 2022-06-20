@@ -124,10 +124,11 @@ main{
     justify-items: stretch;
     align-items: stretch;
     margin:  auto;
+    width: 80%;
 }
 
 #grid-container > div{
-    padding: 1em;
+    padding: 5px;
 }
 
 
