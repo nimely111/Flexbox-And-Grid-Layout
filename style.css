@@ -126,6 +126,11 @@ main{
     margin:  auto;
 }
 
+#grid-container > div{
+    background: gold;
+    padding: 1em;
+}
+
 
 
 .grid-items1{
