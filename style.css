@@ -147,7 +147,11 @@ main{
     grid-column: 2/4;
     grid-row: 3;
 }
-.grid-items4{background:LightPink;}
+.grid-items4{
+    background:LightPink;
+    grid-column: 1;
+    grid-row:3/5;
+}
 .grid-items5{background: PaleGreen;}
 
 
