@@ -123,8 +123,9 @@ main{
     justify-items: stretch;
     align-items: stretch;
     margin:  auto;
-    width: 80%;
+    width: 70%;
     height: 450px;
+    padding: 25px;
 }
 
 #grid-container > div{
