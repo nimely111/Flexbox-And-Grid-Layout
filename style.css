@@ -125,6 +125,7 @@ main{
     align-items: stretch;
     margin:  auto;
     width: 80%;
+    height: 450px;
 }
 
 #grid-container > div{
