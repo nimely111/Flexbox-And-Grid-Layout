@@ -120,9 +120,19 @@ main{
     display: grid;
     grid-template-columns: 1fr 2fr 1fr;
     grid-auto-rows: minmax(100px, auto);
+    gap: 1em;
+    background: #206970;
+    width: 75%;
+    margin:  auto;
 }
-.grid-items1{background:LightSkyBlue;}
-.grid-item2{background:LightSalmon;}
+
+
+
+.grid-items1{
+    background:LightSkyBlue;
+
+}
+.grid-items2{background:LightSalmon;}
 .grid-items3{background:PaleTurquoise;}
 .grid-items4{background:LightPink;}
 .grid-items5{background: PaleGreen;}
